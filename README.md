@@ -9,3 +9,4 @@ This repository contains all the laboratory assignments for the DS605 Fundamenta
 ## Repository Structure
 
 - Lab-1-Data-Scraping
+- Lab-2 - NumPy & Pandas
