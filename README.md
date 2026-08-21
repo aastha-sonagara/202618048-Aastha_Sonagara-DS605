@@ -10,3 +10,4 @@ This repository contains all the laboratory assignments for the DS605 Fundamenta
 
 - Lab-1-Data-Scraping
 - Lab-2 - NumPy & Pandas
+- Lab -3 - ScikitLearn library - Preprocessing, Modelling & Evaluation
