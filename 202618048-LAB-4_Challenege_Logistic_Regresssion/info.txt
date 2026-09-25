@@ -1,0 +1,20 @@
+- have to encoding for categorical columns into numerical values
+
+- impute values - gpt told to use median (have whole range , min , max values are very far apart , have outliers )
+
+- in some mean , some knn imputer, one in any way (mean if data is good , categorical then knn ) n other kuch bhi liya ho good ans beta 
+
+- data bias towards one class 
+
+- under sampling (data split 60-40 then do 40-40 ignore rest)  , oversampling (take random samples from 40 into 60 taking duplicate) , smot (take middle values around as it takes points in circle)  for in using class imbalance 
+ 
+
+- hypermarameters in LR , kitne levels , splits , which type of loss , gridsearch cv takes time (creates all combinations possible n based on tht it trains) 
+random search ( selecting randomly selecting 5 , hoping good ans mile) 
+
+- neural networks - use baeysian optimisation 
+
+- remove the outliers 
+
+- create sns heatmap to see where null values are there 
+
